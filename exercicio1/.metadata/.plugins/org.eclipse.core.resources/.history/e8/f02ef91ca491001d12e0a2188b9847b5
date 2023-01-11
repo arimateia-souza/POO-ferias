@@ -1,0 +1,21 @@
+package dominio;
+
+public class Lampada {
+	private boolean ligada;
+	private int potencia;
+	
+	
+	public boolean isLigada() {
+		return ligada;
+	}
+	public void setLigada(boolean ligada) {
+		this.ligada = ligada;
+	}
+	public int getPotencia() {
+		return potencia;
+	}
+	public void setPotencia(int potencia) {
+		this.potencia = potencia;
+	}
+
+}

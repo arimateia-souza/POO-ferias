@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\arisa\OneDrive\Área de Trabalho\POO - FÉRIAS\pratica\exercicio1\.metadata\.plugins\org.eclipse.jdt.core
+4089544364.index
+1865797976.index
+240880419.index
